@@ -1,4 +1,4 @@
-# f_currency_converter_template
+# Reto # 1
 
 Proyecto base para el primer reto
 
